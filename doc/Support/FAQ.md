@@ -227,8 +227,8 @@ $config['device_traffic_iftype'][] = '/ppp/';
 ```
 #### <a name="faq24"> How do I move my LibreNMS install to another server?</a>
 
-If you are moving from one CPU architecture to another then you will need to dump the rrd files and re-create them. If you are in     
-this scenario then you can use [Dan Brown's migration scripts](https://vlan50.com/2015/04/17/migrating-from-observium-to-librenms/).    
+~~If you are moving from one CPU architecture to another then you will need to dump the rrd files and re-create them. If you are in     
+this scenario then you can use [Dan Brown's migration scripts](https://vlan50.com/2015/04/17/migrating-from-observium-to-librenms/).~~ Dead Link    
     
 If you are just moving to another server with the same CPU architecture then the following steps should be all that's needed:   
     
